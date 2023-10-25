@@ -1,0 +1,17 @@
+1. Frontend web development is development that invoves the client-side of an application while backend web development involves developing the server-side of the application. 
+
+While the client-side of the application is what users see in their browser, the backend is the 'unseen' side where backend operations such as server and API operations take place.
+
+2. Python is a hig-level scripting language, just like javaScript where commands are executed line by line via standardized syntax. It also has dynamic typing whicih allows any variable assume any kind of value without producing errors. Python supports the installation of several other packages that simplify elaborate operations into condensed functions, such as password encryption for example just like JavaScript.
+
+I will go with Python because of its readability which allows anyone with basic coding experience understand quickly what the code is doing. Python frameworks come with out-of-the-box essentials which allows developers get essential operations running with ease.
+
+Python also has a very strong community support group online.
+
+Easy to learn, due to it's simple and straightforward syntax, which helps to speed up development especially on te backend of applications.
+
+3. Goals
+a. How to install python on windows
+b. How to setup virtual environments
+c. How to use Python's Interactive Shell
+
